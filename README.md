@@ -55,7 +55,7 @@ Compare Trends: Analyze past patterns and projected trends.
 - **Streamlit** - Interactive user interface.
 
 ## Frame Works Used
-![LangChain Model](https://github.com/harishhgowda/Stock_Trend_Analyzer/blob/main/images/LangChainModel.png)
+![FrameWorksUsed](https://github.com/harishhgowda/Stock_Trend_Analyzer/blob/main/images/frameworks_used.avif)
 
 ## 🎯 Contributions
 Contributions are welcome! Feel free to fork this repo, make changes, and submit a pull request. 😃
