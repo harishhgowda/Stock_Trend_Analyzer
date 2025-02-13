@@ -28,7 +28,7 @@ The retrieval process involves **embedding documents** and searching using **FAI
 Users interact with the system through a **Streamlit UI**, where they can enter queries and receive AI-powered results.  
 📌 *Below is a preview of the UI:*  
 
-![UI Screenshot](https://github.com/harishhgowda/Stock_Trend_Analyzer/blob/main/images/Screenshot%20(169).png)
+![UI Screenshot](https://github.com/harishhgowda/Stock_Trend_Analyzer/blob/main/images/Streamlit_UI.png)
 
 ---
 ##  Set Up Environment Variables
